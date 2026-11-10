@@ -1,0 +1,13 @@
+# Bỏ qua file chứa biến môi trường nhạy cảm
+.env
+
+# Môi trường ảo của Python / uv
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build/Dist của uv
+dist/
+build/
