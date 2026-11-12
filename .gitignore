@@ -11,3 +11,6 @@ __pycache__/
 # Build/Dist của uv
 dist/
 build/
+
+
+simple_multi_agent/*.png
